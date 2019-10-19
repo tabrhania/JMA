@@ -11,6 +11,16 @@
     <script src="<?= base_url() ?>/assets/js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="<?= base_url() ?>/assets/js/active.js"></script>
+    <script src="<?= base_url() ?>/assets/tether/tether.min.js"></script>
+    <script src="<?= base_url() ?>/assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="<?= base_url() ?>/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+    <script src="<?= base_url() ?>/assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+    <script src="<?= base_url() ?>/assets/masonry/masonry.pkgd.min.js"></script>
+    <script src="<?= base_url() ?>/assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="<?= base_url() ?>/assets/theme/js/script.js"></script>
+    <script src="<?= base_url() ?>/assets/gallery/player.min.js"></script>
+    <script src="<?= base_url() ?>/assets/gallery/script.js"></script>
+    <script src="<?= base_url() ?>/assets/slidervideo/script.js"></script>
 </body>
 
 </html>
