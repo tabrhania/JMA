@@ -28,6 +28,7 @@
                                     <li><a href="#">Trader Master</a>
                                         <ul class="dropdown">
                                             <li><a href="<?= base_url() ?>trader">Profile Copy Trader</a></li>
+                                            <li><a href="<?= base_url() ?>user">User</a></li>
                                             <li><a href="<?= base_url() ?>syaratketentuan">Syarat Dan Ketentuan</a></li>
                                             <li><a href="<?= base_url() ?>alurpendaftaran">Alur Pendaftaran</a></li>
                                         </ul>
