@@ -5,6 +5,6 @@ class Trader extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('user/trader_master');
+		$this->load->view('user/trader_profile');
 	}
 }
