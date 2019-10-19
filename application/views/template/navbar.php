@@ -28,14 +28,14 @@
                                     <li><a href="#">Trader Master</a>
                                         <ul class="dropdown">
                                             <li><a href="<?= base_url() ?>trader">Profile Copy Trader</a></li>
-                                            <li><a href="about-us.html">Syarat Dan Ketentuan</a></li>
-                                            <li><a href="blog.html">Alur Pendaftaran</a></li>
+                                            <li><a href="<?= base_url() ?>syaratketentuan">Syarat Dan Ketentuan</a></li>
+                                            <li><a href="<?= base_url() ?>alurpendaftaran">Alur Pendaftaran</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">Berita</a>
                                         <ul class="dropdown">
-                                            <li><a href="">Berita Dunia</a></li>
-                                            <li><a href="about-us.html">Kegiatan JMA</a></li>
+                                            <li><a href="<?= base_url() ?>berita">Berita Dunia</a></li>
+                                            <li><a href="<?= base_url() ?>kegiatan">Kegiatan JMA</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">Currencies</a></li>
