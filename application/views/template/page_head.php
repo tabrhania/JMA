@@ -16,6 +16,20 @@
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?= base_url() ?>/assets/style.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/animate.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/custom-icon.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/classy-nav.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/web/assets/mobirise-icons/mobirise-icons.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/tether/tether.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/bootstrap/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/theme/css/style.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/gallery/style.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/mobirise/css/mbr-additional.css" type="text/css">
 
 </head>
 

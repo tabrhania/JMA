@@ -24,70 +24,25 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.html">Beranda</a></li>
-                                    <li><a href="#">Halaman</a>
+                                    <li><a href="<?= base_url() ?>">Beranda</a></li>
+                                    <li><a href="#">Trader Master</a>
                                         <ul class="dropdown">
-                                            <li><a href="index.html">Beranda</a></li>
-                                            <li><a href="about-us.html">Tentang JMA</a></li>
-                                            <li><a href="blog.html">Artikel</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="elements.html">Elements</a></li>
-                                            <li><a href="#">Dropdown</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="about-us.html">About Us</a></li>
-                                                    <li><a href="blog.html">Articles</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                    <li><a href="elements.html">Elements</a></li>
-                                                    <li><a href="#">Dropdown</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="index.html">Home</a></li>
-                                                            <li><a href="about-us.html">About Us</a></li>
-                                                            <li><a href="blog.html">Articles</a></li>
-                                                            <li><a href="contact.html">Contact</a></li>
-                                                            <li><a href="elements.html">Elements</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="<?= base_url() ?>trader">Profile Copy Trader</a></li>
+                                            <li><a href="<?= base_url() ?>user">User</a></li>
+                                            <li><a href="<?= base_url() ?>syaratketentuan">Syarat Dan Ketentuan</a></li>
+                                            <li><a href="<?= base_url() ?>alurpendaftaran">Alur Pendaftaran</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Mega Menu</a>
-                                        <div class="megamenu">
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="#">- Home</a></li>
-                                                <li><a href="#">- About us</a></li>
-                                                <li><a href="#">- Services</a></li>
-                                                <li><a href="#">- Testimonials</a></li>
-                                                <li><a href="#">- News</a></li>
-                                                <li><a href="#">- About us</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="#">- Contact</a></li>
-                                                <li><a href="#">- Faq</a></li>
-                                                <li><a href="#">- Terms &amp; Conditions</a></li>
-                                                <li><a href="#">- Careers</a></li>
-                                                <li><a href="#">- Newsletter &amp; Exchange</a></li>
-                                                <li><a href="#">- Terms &amp; Conditions</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="#">- About us</a></li>
-                                                <li><a href="#">- Testimonials</a></li>
-                                                <li><a href="#">- Contact</a></li>
-                                                <li><a href="#">- Terms &amp; Conditions</a></li>
-                                                <li><a href="#">- Newsletter &amp; Exchange</a></li>
-                                                <li><a href="#">- Contact</a></li>
-                                            </ul>
-                                            <div class="single-mega cn-col-4">
-                                                <div class="megamenu-slides owl-carousel">
-                                                    <img src="<?= base_url() ?>/assets/img/bg-img/bg-1.jpg" alt="">
-                                                    <img src="<?= base_url() ?>/assets/img/bg-img/bg-1.jpg" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <li><a href="#">Berita</a>
+                                        <ul class="dropdown">
+                                            <li><a href="<?= base_url() ?>berita">Berita Dunia</a></li>
+                                            <li><a href="<?= base_url() ?>kegiatan">Kegiatan JMA</a></li>
+                                        </ul>
                                     </li>
+                                    <li><a href="galeri">Galeri</a></li>
                                     <li><a href="#">Currencies</a></li>
                                     <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                 </ul>
 
                                 <!-- Newsletter Form -->
