@@ -3,7 +3,13 @@
 <!-- isi halaman memulai -->
 
 <div class="container">
- USER
+ PROFILE USER <br>
+ Nomor ID <br>
+ NIK<br>
+ Nama<br>
+ Email<br>
+ Username<br>
+ Status<br>
 </div>
 
 <!-- isi halaman end -->
