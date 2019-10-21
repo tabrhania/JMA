@@ -39,8 +39,8 @@
                                             <li><a href="<?= base_url() ?>kegiatan">Kegiatan JMA</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="galeri">Galeri</a></li>
-                                    <li><a href="#">Currencies</a></li>
+                                    <li><a href="<?= base_url() ?>galeri">Galeri</a></li>
+                                    <li><a href="<?= base_url() ?>artikel">Artikel</a></li>
                                     <li><a href="contact.html">Contact</a></li>
                                     <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                 </ul>
