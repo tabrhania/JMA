@@ -4,7 +4,6 @@
 <!-- isi halaman memulai -->
 
 
-
 <!-- isi halaman end -->
 <?php $this->load->view('template/footer') ?>
 <?php $this->load->view('template/js') ?>

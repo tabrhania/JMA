@@ -3,14 +3,23 @@
       <div id="sidebar" class="nav-collapse ">
         <!-- sidebar menu start-->
         <ul class="sidebar-menu" id="nav-accordion">
-          <p class="centered"><a href="profile.html"><img src="<?= base_url() ?>/assets/img/ui-sam.jpg" class="img-circle" width="80"></a></p>
-          <h5 class="centered">Sam Soffes</h5>
+          <p class="centered"><a href="profile.html"><img src="<?= base_url() ?>/assets/img/jma.jpg" class="img-circle" width="80"></a></p>
+          <h5 class="centered">Admin</h5>
+
           <li class="mt">
             <a class="active" href="index.html">
               <i class="fa fa-dashboard"></i>
               <span>Dashboard</span>
               </a>
           </li>
+
+          <li>
+            <a href="<?= base_url() ?>ArtikelAdmin">
+              <i class="fa fa-newspaper-o"></i>
+              <span>Artikel </span>
+              </a>
+          </li>
+
           <li class="sub-menu">
             <a href="javascript:;">
               <i class="fa fa-desktop"></i>
