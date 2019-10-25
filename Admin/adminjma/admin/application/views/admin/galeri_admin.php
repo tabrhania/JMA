@@ -3,7 +3,7 @@
 <?php $this->load->view('template/sidebar') ?>
 <!-- isi halaman memulai -->
 
-
+wswswswswswswswswsws
 
 <!-- isi halaman end -->
 <?php $this->load->view('template/footer') ?>

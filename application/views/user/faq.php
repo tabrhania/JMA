@@ -1,8 +1,12 @@
 <?php $this->load->view('template/page_head') ?>
 <?php $this->load->view('template/navbar') ?>
 <!-- isi halaman memulai -->
-<div class="container my-5 shadow-lg rounded p-3">
-	<button class="btn btn-primary btn-block" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapseExample">
+<br>
+<div class="container">
+	<h1>FAQ JMA</h1>
+</div>
+<div class="container my-5 shadow-lg rounded p-4">
+	<button class="btn btn-dark btn-block mb-3 ml-1 shadow" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapseExample">
     1.	Dimana letak JMA berada?  
   	</button>
   	<div class="collapse" id="collapse1">
@@ -12,7 +16,7 @@
 	</div>
 
 
-	<button class="btn btn-primary btn-block" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapseExample">
+	<button class="btn btn-dark btn-block mb-3 ml-1 shadow" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapseExample">
     2.	Berapa keuntungan pasti yang di dapat jika kita mengikuti trader master?  
   	</button>
   	<div class="collapse" id="collapse2">
@@ -22,7 +26,7 @@
 	</div>
 
 
-	<button class="btn btn-primary btn-block" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapseExample">
+	<button class="btn btn-dark btn-block mb-3 ml-1 shadow" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapseExample">
     3.	Apa saja syarat untuk menjadi trader master? 
   	</button>
   	<div class="collapse" id="collapse3">
@@ -32,7 +36,7 @@
 	</div>
 
 
-	<button class="btn btn-primary btn-block" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapseExample">
+	<button class="btn btn-dark btn-block mb-3 ml-1 shadow" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapseExample">
 	4.	 Berapa modal yang dibutuhkan untuk bergabung?
   	</button>
   	<div class="collapse" id="collapse4">

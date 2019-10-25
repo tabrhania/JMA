@@ -29,7 +29,6 @@
                                         <ul class="dropdown">
                                             <li><a href="<?= base_url() ?>trader">Profile Copy Trader</a></li>
                                             <li><a href="<?= base_url() ?>user">User</a></li>
-                                            <li><a href="<?= base_url() ?>syaratketentuan">Syarat Dan Ketentuan</a></li>
                                             <li><a href="<?= base_url() ?>alurpendaftaran">Alur Pendaftaran</a></li>
                                         </ul>
                                     </li>
@@ -41,7 +40,6 @@
                                     </li>
                                     <li><a href="<?= base_url() ?>galeri">Galeri</a></li>
                                     <li><a href="<?= base_url() ?>artikel">Artikel</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
                                     <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                 </ul>
 
