@@ -41,7 +41,7 @@
                                     <li><a href="#">Home</a></li>
                                     <li><a href="#">Faq</a></li>
                                     <li><a href="#">About us</a></li>
-                                    <li><a href="#">Terms &amp; Conditions</a></li>
+                                    <li><a href="#" data-toggle="modal" data-target="#modalsk">Syarat Dan Ketentuan</a></li>
                                     <li><a href="#">Services</a></li>
                                     <li><a href="#">Careers</a></li>
                                     <li><a href="#">Testimonials</a></li>

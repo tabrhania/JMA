@@ -39,4 +39,26 @@ s0.parentNode.insertBefore(s1,s0);
 
 </body>
 
+<!-- Modal -->
+<div class="modal fade" id="modalsk" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalScrollableTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h2 class="align-center">S&K</h2>
+        <br>
+        <p>1. Berumur Lebih Dari 17 Tahun <br>2. Memiliki KTP <br>3. Sehat Jasmani Dan Rohani <br>4. Berdomisili Jember</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-dark">Ok !</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 </html>
