@@ -1,6 +1,5 @@
 <!-- js placed at the end of the document so the pages load faster -->
   <script src="<?= base_url() ?>/assets/lib/jquery/jquery.min.js"></script>
-
   <script src="<?= base_url() ?>/assets/lib/bootstrap/js/bootstrap.min.js"></script>
   <script class="include" type="text/javascript" src="<?= base_url() ?>/assets/lib/jquery.dcjqaccordion.2.7.js"></script>
   <script src="<?= base_url() ?>/assets/lib/jquery.scrollTo.min.js"></script>
@@ -10,7 +9,7 @@
   <script src="<?= base_url() ?>/assets/lib/common-scripts.js"></script>
   <script type="text/javascript" src="<?= base_url() ?>/assets/lib/gritter/js/jquery.gritter.js"></script>
   <script type="text/javascript" src="<?= base_url() ?>/assets/lib/gritter-conf.js"></script>
-  <!--script for this page-->
+  <!--script for this dashboard-->
   <script src="<?= base_url() ?>/assets/lib/sparkline-chart.js"></script>
   <script src="<?= base_url() ?>/assets/lib/zabuto_calendar.js"></script>
   <script type="text/javascript">
@@ -75,6 +74,23 @@
       console.log('nav ' + nav + ' to: ' + to.month + '/' + to.year);
     }
   </script>
+
+  <!--script for this artikel-->
+  <script src="<?= base_url() ?>/assets/lib/jquery-ui-1.9.2.custom.min.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-fileupload/bootstrap-fileupload.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-daterangepicker/date.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-daterangepicker/daterangepicker.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-daterangepicker/moment.min.js"></script>
+  <script type="text/javascript" src="<?= base_url() ?>/assets/lib/bootstrap-timepicker/js/bootstrap-timepicker.js"></script>
+  <script src="<?= base_url() ?>/assets/lib/advanced-form-components.js"></script>
+
+<!--script for this form validation-->
+<script src="<?= base_url() ?>/assets/lib/form-validation-script.js"></script>
+
+
+
   
   </body>
 

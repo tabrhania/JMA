@@ -7,16 +7,43 @@
           <h5 class="centered">Admin</h5>
 
           <li class="mt">
-            <a class="active" href="index.html">
+            <a class="active" href="<?= base_url() ?>DashboardAdmin">
               <i class="fa fa-dashboard"></i>
               <span>Dashboard</span>
               </a>
           </li>
 
           <li>
+            <a href="<?= base_url() ?>BerandaAdmin">
+              <i class="fa fa-home"></i>
+              <span>Beranda </span>
+              </a>
+          </li>
+
+          <li>
+            <a href="<?= base_url() ?>TradersAdmin">
+              <i class="fa fa-users"></i>
+              <span>Traders </span>
+              </a>
+          </li>
+
+           <li class="sub-menu">
+            <a href="<?= base_url() ?>LiveChatAdmin">
+              <i class="fa fa-comments-o"></i>
+              <span>Live Chat Room</span>
+            </a>
+
+          <li>
             <a href="<?= base_url() ?>ArtikelAdmin">
               <i class="fa fa-newspaper-o"></i>
               <span>Artikel </span>
+              </a>
+          </li>
+
+          <li>
+            <a href="<?= base_url() ?>GaleriAdmin">
+              <i class="fa fa-image"></i>
+              <span>Galeri </span>
               </a>
           </li>
 

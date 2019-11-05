@@ -424,7 +424,7 @@
         </div>
         <!-- /row -->
       </section>
-    </section>
+   
 
 <!-- isi halaman end -->
 <?php $this->load->view('template/footer') ?>
