@@ -46,6 +46,23 @@
               <span>Galeri </span>
               </a>
           </li>
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-book"></i>
+              <span>Profil Web</span>
+              </a>
+            <ul class="sub">
+              <li><a href="VisiMisiAdmin">Visi Misi</a></li>
+              <li><a href="login.html">Login</a></li>
+              <li><a href="lock_screen.html">Lock Screen</a></li>
+              <li><a href="profile.html">Profile</a></li>
+              <li><a href="invoice.html">Invoice</a></li>
+              <li><a href="pricing_table.html">Pricing Table</a></li>
+              <li><a href="faq.html">FAQ</a></li>
+              <li><a href="404.html">404 Error</a></li>
+              <li><a href="500.html">500 Error</a></li>
+            </ul>
+          </li>
 
           <li class="sub-menu">
             <a href="javascript:;">
