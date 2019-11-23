@@ -2,8 +2,7 @@
 <?php $this->load->view('template/navbar') ?>
 <!-- isi halaman memulai -->
 
-
-<div class="row mx-5 px-5">
+	<div class="row mx-5 px-5">
 	<div class="col-3 mb-5 ">	
 			<div class="card" style="width: 18rem;">
 
@@ -12,7 +11,11 @@
 				</div>
 
 				<div class="card-body">
-					<h5 class="card-title text-center">Card title </h5>
+					
+					<a href="<?= base_url() ?>traderdetail">
+						<h5 class="card-title text-center">Rama Ibnu a </h5>
+					</a>
+					
 					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 				</div>
 
@@ -141,6 +144,8 @@
 		</div>
 	</div>
 	
+
+
 
 <!-- isi halaman end -->
 <?php $this->load->view('template/footer') ?>
