@@ -6,7 +6,7 @@
                     <nav class="classy-navbar justify-content-between" id="cryptosNav">
 
                         <!-- Logo -->
-                        <a class="nav-brand" href="index.html"><img src="<?= base_url() ?>/assets/img/core-img/" alt=""></a>
+                        <a class="nav-brand"><img src="<?= base_url() ?>/assets/img/core-img/" alt=""></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">

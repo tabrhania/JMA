@@ -16,8 +16,6 @@
                             <div class="footer-social-info">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-                                <a href="#"><i class="fa fa-behance"></i></a>
                                 <a href="#"><i class="fa fa-instagram"></i></a>
                             </div>
                         </div>
@@ -38,17 +36,15 @@
                             </div>
                             <nav>
                                 <ul class="useful-links d-flex justify-content-between flex-wrap">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">Faq</a></li>
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#" data-toggle="modal" data-target="#modalsk">Syarat Dan Ketentuan</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Careers</a></li>
-                                    <li><a href="#">Testimonials</a></li>
-                                    <li><a href="#">Newsletter &amp; Exchange</a></li>
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Exchange</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="#">Beranda</a></li>
+                                    <li><a href="#">Profile Copy Trader</a></li>
+                                    <li><a href="#">User</a></li>
+                                    <li><a href="#" data-toggle="modal" data-target="#modalsk">Alur Pendaftaran</a></li>
+                                    <li><a href="#">Berita Dunia</a></li>
+                                    <li><a href="#">Kegiatan JMA</a></li>
+                                    <li><a href="#">Galeri</a></li>
+                                    <li><a href="#">Artikel</a></li>
+                                    <li><a href="#">FAQ</a></li>
                                 </ul>
                             </nav>
                         </div>

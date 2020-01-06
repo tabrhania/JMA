@@ -8,12 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
+    <!-- Favicon -->
+    <link rel="icon" href="<?= base_url() ?>/assets/images/JMA.PNG">
+
+
     <!-- Title -->
     <title>Jember Market Analyst</title>
 
-    <!-- Favicon -->
-    <link rel="icon" href="<?= base_url() ?>/assets/img/core-img/favicon.ico">
-
+    
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?= base_url() ?>/assets/style.css">
     <link rel="stylesheet" href="<?= base_url() ?>/assets/css/bootstrap.min.css">

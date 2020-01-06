@@ -7,16 +7,16 @@
 			<div class="card" style="width: 18rem;">
 
 				<div class="mt-3 mx-auto" style="overflow:hidden; height:120px; width:120px; border-radius:50%;">
-    				<img class="img-fluid" src="assets/images/ccc.jpg" alt='Agent picture' />	
+    				<img class="img-fluid" src="assets/images/1.jpg" alt='Agent picture' />	
 				</div>
 
 				<div class="card-body">
 					
 					<a href="<?= base_url() ?>traderdetail">
-						<h5 class="card-title text-center">Rama Ibnu a </h5>
+						<h5 class="card-title text-center">HENDRA AGUNG </h5>
 					</a>
 					
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<p class="card-text">Trading menggunakan Rasio TP:SL. Rasio berubah-ubah tergantung momen market yang ada. Titik entry berdasarkan area SnD. Full manual menggunakan pending limit.</p>
 				</div>
 
 				<div class="row mx-auto">
@@ -45,12 +45,14 @@
 			<div class="card" style="width: 18rem;">
 
 				<div class="mt-3 mx-auto" style="overflow:hidden; height:120px; width:120px; border-radius:50%;">
-    				<img class="img-fluid" src="assets/images/ddd.jpg" alt='Agent picture' />	
+    				<img class="img-fluid" src="assets/images/2.jpg" alt='Agent picture' />	
 				</div>
 
 				<div class="card-body">
-					<h5 class="card-title text-center">Card title </h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+					<a href="<?= base_url() ?>traderdetail">
+					<h5 class="card-title text-center">RAMA ZANDRIAZ </h5>
+					<p class="card-text">Trading dan photography merupakan hobby yang menghasilkan, tergantung bagaimana kita bersungguh-sungguh dalam menekuninya.</p>
 				</div>
 
 				<div class="row mx-auto">
@@ -79,12 +81,13 @@
 			<div class="card" style="width: 18rem;">
 
 				<div class="mt-3 mx-auto" style="overflow:hidden; height:120px; width:120px; border-radius:50%;">
-    				<img class="img-fluid" src="assets/images/eee.jpg" alt='Agent picture' />	
+    				<img class="img-fluid" src="assets/images/3.jpeg" alt='Agent picture' />	
 				</div>
 
 				<div class="card-body">
-					<h5 class="card-title text-center">Card title </h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<a href="<?= base_url() ?>traderdetail">
+					<h5 class="card-title text-center">AULIA RAHMA </h5>
+					<p class="card-text">Let's Trade, Eat and Go Travelling. Set Your Own Risk. Yen Rakuat Rekasane, ojo ngarep hasile. Man Jadda Wajada. Senyumlah, niscaya Anda akan bahagia.</p>
 				</div>
 
 				<div class="row mx-auto">
@@ -117,8 +120,9 @@
 				</div>
 
 				<div class="card-body">
-					<h5 class="card-title text-center">Card title </h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<a href="<?= base_url() ?>traderdetail">
+					<h5 class="card-title text-center">Aurel Milka </h5>
+					<p class="card-text">Set Your Own Risk. Potensi trading forex sangatlah menarik. Kosongkan Gelas Anda agar Anda dapat meningkatkan kemampuan dan wawasan Anda.</p>
 				</div>
 
 				<div class="row mx-auto">

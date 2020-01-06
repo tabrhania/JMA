@@ -65,16 +65,16 @@
                     <div class="single-feature-area mb-100 text-center">
                         <i class="icon-safebox"></i>
                         <h3>Cepat &amp; Mudah</h3>
-                        <p>Jember Market Analyst menyediakan dengan pelayanan yang cepat & mudah</p>
+                        <p>Jember Market Analyst menyediakan dengan pelayanan yang cepat & mudah. Kelas edukasi membimbing Anda dari nol hingga menjadi Trader mandiri. Setiap anggota dapat menciptakan Indikator.</p>
                     </div>
                 </div>
 
                 <!-- Single Course Area -->
                 <div class="col-12 col-md-6 col-xl-3">
-                    <div class="single-feature-area active mb-100 text-center">
+                    <div class="single-feature-area mb-100 text-center">
                         <i class="icon-bitcoin"></i>
                         <h3>Keuntungan</h3>
-                        <p>Dengan adanya market analyst diharapkan yang bergabung mendapatkan profit yang menjanjikan</p>
+                        <p>Dengan adanya market analyst diharapkan yang bergabung mendapatkan profit yang menjanjikan, Berbagi kebahagiaan dan manfaat untuk sesama & menjadi trader mandiri profesional & ahli</p>
                     </div>
                 </div>
 
