@@ -36,24 +36,6 @@
                     <div class="cryptos-blog-posts">
                         <div class="row">
 
-                            <!-- Single Blog Area -->
-                            <div class="col-12">
-                                <div class="single-blog-area blog-style-2 mb-100">
-                                    <!-- Thumbnail -->
-                                    <div class="blog-thumbnail">
-                                        <img src="<?= base_url() ?>/assets/images/ParabolicSar.jpg" alt="">
-                                    </div>
-                                    <!-- Content -->
-                                    <div class="blog-content">
-                                        <a href="<?= base_url() ?>parabolicsar" class="post-title">Parabolic Sar</a>
-                                        <div class="meta-data">
-                                            <a href="#">JMA Artikel</a> |
-                                            <a href="#">22 Desember 2019</a>
-                                        </div>
-                                        <p>Indikator Parabolic Sar dibuat oleh seorang trader profesinoal bernama J. Welles Wilder.</p>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div class="col-12">
                                 <div class="blog-section-heading">
@@ -71,7 +53,7 @@
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="#" class="post-title">Virtual Private Server (VPS)</a>
+                                        <a href="<?= base_url() ?>vps" class="post-title">Virtual Private Server (VPS)</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
@@ -88,7 +70,7 @@
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="#" class="post-title">Sewa VPS</a>
+                                        <a href="<?= base_url() ?>sewavps" class="post-title">Sewa VPS</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
@@ -105,7 +87,7 @@
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="#" class="post-title">Create Your Own EA & Indikator</a>
+                                        <a href="<?= base_url() ?>create_your_own_ea_indikator" class="post-title">Create Your Own EA & Indikator</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
@@ -122,7 +104,7 @@
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="#" class="post-title">CopyTrade</a>
+                                        <a href="<?= base_url() ?>copytrade" class="post-title">CopyTrade</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
@@ -142,6 +124,9 @@
 
                         <!-- Section Heading -->
                         <div class="blog-section-heading mb-50">
+
+					<iframe src ="https://www.seputarforex.com/widget/saham_berita.php" width="100%" height="360" frameborder="0"  scrolling="no" style="overflow:hidden;"><a href="https://www.seputarforex.com">Berita Dan Belajar Forex Terlengkap</a></iframe>
+
                             <h3>Indikator</h3>
                         </div>
 
@@ -152,7 +137,7 @@
                             </div>
                             <!-- Content -->
                             <div class="blog-content">
-                                <a href="#" class="post-title">Average Directional Movement Index (ADX)</a>
+                                <a href="<?= base_url() ?>adx" class="post-title">Average Directional Movement Index (ADX)</a>
                                 <div class="meta-data">
                                     <a href="#">JMA Artikel</a> |
                                     <a href="#">22 Desember 2019</a>
@@ -168,7 +153,7 @@
                             </div>
                             <!-- Content -->
                             <div class="blog-content">
-                                <a href="#" class="post-title">Bollinger Band</a>
+                                <a href="<?= base_url() ?>bollinger" class="post-title">Bollinger Band</a>
                                 <div class="meta-data">
                                     <a href="#">JMA Artikel</a> |
                                     <a href="#">22 Desember 2019</a>
@@ -190,7 +175,7 @@
                             </div>
                             <!-- Content -->
                             <div class="blog-content">
-                                <a href="#" class="post-title">JMA Charity</a>
+                                <a href="<?= base_url() ?>charity" class="post-title">JMA Charity</a>
                                 <div class="meta-data">
                                     <a href="#">JMA Artikel</a>  |
                                     <a href="#">22 Desember 2019</a>

@@ -32,12 +32,6 @@
                                             <li><a href="<?= base_url() ?>alurpendaftaran">Alur Pendaftaran</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Berita</a>
-                                        <ul class="dropdown">
-                                            <li><a href="<?= base_url() ?>berita">Berita Dunia</a></li>
-                                            <li><a href="<?= base_url() ?>kegiatan">Kegiatan JMA</a></li>
-                                        </ul>
-                                    </li>
                                     <li><a href="<?= base_url() ?>galeri">Galeri</a></li>
                                     <li><a href="<?= base_url() ?>artikel">Artikel</a></li>
                                     <li><a href="<?= base_url() ?>faq">FAQ</a></li>

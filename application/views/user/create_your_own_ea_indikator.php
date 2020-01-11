@@ -41,38 +41,18 @@
                                 <div class="single-blog-area blog-style-2 mb-100">
                                     <!-- Thumbnail -->
                                     <div class="blog-thumbnail">
-                                        <img src="<?= base_url() ?>/assets/images/copytrade.PNG" alt="">
+                                        <img src="<?= base_url() ?>/assets/images/Create Your Own EA & Indikator.jpg" alt="">
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="<?= base_url() ?>parabolicsar" class="post-title">CopyTrade</a>
+                                        <a href="<?= base_url() ?>parabolicsar" class="post-title">Create Your Own EA & Indikator</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
                                         </div>
-                                        <p>Trading sebenarnya tidak sulit, namun yang tersulit adalah menentukan strategi apa yang akan anda gunakan dalam trading. <br>
-
-Seringkali trader belajar cukup lama dan panjang ke orang orang yang sudah terlebih dahulu melakukan trading, namun ada juga yang berulangkali mencoba banyak jenis indikator untuk mencari mana yang terbaik yang digunakan dalam trading.<br>
-
-Disisi lain ada juga trader yang melakukan investasi untuk ikuti seminar trading serta melahap banyak kitab trading akan tetapi akhirnya masih tetap saja mengecewakan.<br>
-
-Bila telah begini, umumnya trader bakal dihadapkan pada pilihan yang cukup susah, antara melanjutkan kesemrawutan yang ada berulang kali atau memikirkan untuk berhenti trading karna tak pernah temukan titik terang kemana arah trading.<br>
-
-Bila anda ada di posisi yang serba salah seperti ini, apakah anda pernah memperhitungkan untuk menjadi seorang copy trader?<br>
-
-Copytrade sendiri adalah suatu fitur agar anda dapat meniru tradingan orang lain dengan skema sharing profit. <br>
-
-Sehingga bila anda menjadi seorang copy trader, anda tidak hanya mempelajari bagaimana mereka trading, namun juga bagaimana mereka mendapatkan sebuah keuntungan dari hari ke hari.<br>
-
-Dengan seperti ini, anda akan mendapatkan profit sebagaimana yang didapatkan oleh trader yang anda copy.<br>
-
-Hal yang perlu anda perhatikan sebelum memulai copytrade
-Copytrade adalah teknik trading dengan meniru semua tradingan master trader. Apabila master trader loss maka anda juga akan loss,
-Atur risk management anda, sehingga anda tidak akan kehilangan seluruh balance anda
-Strategi yang dipakai mempunyai pengaruh pada masing masing akun trading. Sadarilah kemampuan dana investasi anda yang tidak sama dengan kemampuan dana investasi yang anda copy. Sehebat hebatnya mereka, mereka tetaplah manusia yang dapat alami loss, sebelum itu sebua terjadi maka anda harus benar benar mengikuti trading dari orang yang anda copy, jangan sampai lepas tangan begitu saja.
-Pelajari dan perhatikan lagi account top trader yang akan Anda pilih. Jika Anda seorang trader yang selalu bermain dengan pilihan resiko kecil (tipe risk averse) Anda tentunya tidak bisa mengikuti tipe top trader yang bermain sebagai risk taker. Lakukan penyesuaian apakah tipe top trader yang Anda pilih mempunyai kecocokan strategi trading dengan apa  yang Anda cari.
-Jangan lupa lihat seberapa konsisten performa trader yang akan Anda pilih terlebih dahulu. Ada baiknya jika Anda memilih trader yang konsisten menghasilkan profit meski dengan persentase yang kecil, dibanding dengan mengikuti tradingan top trader yang mampu menghasilkan keuntungan besar namun hanya pada saat tertentu saja.<br>
-Pelajari teknik trading master trader anda dari analisis trading yang disediakan. Sehingga anda dapat mengoptimalkan cara trading anda sendiri.</p>
+                                        <p>Jember Market Analyst memberikan fasilitas jasa pembuatan EA  atau Indikator dengan rule milik Anda sendiri. Kami bersedia membuatkan Anda  EA  atau Indikator dengan rule sesuai yang Anda inginkan. Tarif atau biaya pembuatan  EA  atau Indikator berdasarkan rule dan kesulitan pada sistem yang Anda inginkan. Proses pembuatan memerlukan waktu kisaran 2-3 hari sampai 2 minggu dan akan kami konfirmasikan. Tarif atau biaya pembuatan  EA  atau Indikator akan kami konfirmasikan berapa nominalnya setelah Anda mengirimkan FILE PDF rule  EA  atau Indikator Anda sendiri. Di mohon untuk selengkap-lengkapnya dalam menuliskan rule  EA  atau Indikator Anda. Anda dapat membuat EA dengan menggunakan Indikator yang Anda inginkan.<br> 
+                                        EA dapat berupa strategi apapun yang Anda inginkan seperti Averaging, Martingale, Hedging, Cut Switch, campuran dan lain sebagainya, kemudian selanjutnya akan kami informasikan kami sanggup untuk membuatkannya atau tidak. Jika kami sanggup membuatnya maka kami akan konfirmasikan berapa tarifnya.  EA  atau Indikator akan kami mulai penggarapan setelah bukti transfer dikirimkan. Setelah  EA  atau Indikator jadi maka akan kami kirimkan FILE MQ4 kepada Anda. Jika ada kesalahan rule, maka akan kami betulkan tanpa biaya tambahan (selama sesuai rule awal). Namun, jika Anda ingin menambahkan rule atau perubahan rule diluar PDF yang Anda kirimkan pertama kali, maka akan kami bebankan biaya tambahan sesuai kesulitannya.
+Silahkan hubungi kami melalui email kami di ariframadan623@gmail.com atau Telegram @Rama623. Jangan lupa isi subjek "Pembuatan Indikator" atau “Pembuatan EA” ,berikan Nama Indikator atau EA Anda dan lampirkan FILE PDF rule Anda sendiri. Semoga Sukses.</p>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +73,7 @@ Pelajari teknik trading master trader anda dari analisis trading yang disediakan
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="<?= base_url() ?>vps" class="post-title">Virtual Private Server (VPS)</a>
+                                        <a href="<?= base_url() ?>/artikel_vps" class="post-title">Virtual Private Server (VPS)</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
@@ -110,7 +90,7 @@ Pelajari teknik trading master trader anda dari analisis trading yang disediakan
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="<?= base_url() ?>sewavps" class="post-title">Sewa VPS</a>
+                                        <a href="#" class="post-title">Sewa VPS</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>

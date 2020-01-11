@@ -41,38 +41,40 @@
                                 <div class="single-blog-area blog-style-2 mb-100">
                                     <!-- Thumbnail -->
                                     <div class="blog-thumbnail">
-                                        <img src="<?= base_url() ?>/assets/images/copytrade.PNG" alt="">
+                                        <img src="<?= base_url() ?>/assets/images/VPS.jpg" alt="">
                                     </div>
                                     <!-- Content -->
                                     <div class="blog-content">
-                                        <a href="<?= base_url() ?>parabolicsar" class="post-title">CopyTrade</a>
+                                        <a href="<?= base_url() ?>parabolicsar" class="post-title">Virtual Private Server (VPS)</a>
                                         <div class="meta-data">
                                             <a href="#">JMA Artikel</a> |
                                             <a href="#">22 Desember 2019</a>
                                         </div>
-                                        <p>Trading sebenarnya tidak sulit, namun yang tersulit adalah menentukan strategi apa yang akan anda gunakan dalam trading. <br>
+                                        <p>VPS atau Virtual Private Server atau adalah sebuah server yang dibagi menjadi beberapa virtual server yang dapat diinstall OS dan berbagai aplikasi nya sendiri. VPS atau VDS itu sendiri merupakan teknologi yang memungkinkan sebuah komputer (server) dengan kapasitas resource hardware yang sangat besar dapat dibagi-bagi menjadi beberapa virtual komputer yang mandiri.
 
-Seringkali trader belajar cukup lama dan panjang ke orang orang yang sudah terlebih dahulu melakukan trading, namun ada juga yang berulangkali mencoba banyak jenis indikator untuk mencari mana yang terbaik yang digunakan dalam trading.<br>
+VPS dapat berjalan layaknya sebuah Dedicated Server dan juga dapat diinstall sistem operasi (OS) tersendiri serta dapat mengatur virtual komputernya tanpa mengganggu virtual komputer yang lain. VPS atau VDS juga memiliki banyak kegunaan, diantaranya yaitu:
 
-Disisi lain ada juga trader yang melakukan investasi untuk ikuti seminar trading serta melahap banyak kitab trading akan tetapi akhirnya masih tetap saja mengecewakan.<br>
+Hosting atau Webserver
+VPS seringkali digunakan sebagai sebuah webserver untuk hosting ataupun untuk berbagai jenis webserver, seperti Web Komersil, Institusi Pemerintahan, maupun Organisasi. Karena, hosting atau webserver pada umumnya menggunakan sebuah resource yang besar dan dengan menggunakan VPS/VDS ini mampu untuk mencukupi resource tersebut.
+ 
 
-Bila telah begini, umumnya trader bakal dihadapkan pada pilihan yang cukup susah, antara melanjutkan kesemrawutan yang ada berulang kali atau memikirkan untuk berhenti trading karna tak pernah temukan titik terang kemana arah trading.<br>
+File Server
+Jadikan VPS sebagai pusat data untuk bisnis Anda. Selalu tersedia kapanpun Anda ingin menempatkan dan mengambilnya. Cloud VPS Cloudmatika memberikan unlimited bandwidth untuk semua jenis VPS yang membuat pengiriman file dan menerima file menjadi lebih nyaman.
+ 
 
-Bila anda ada di posisi yang serba salah seperti ini, apakah anda pernah memperhitungkan untuk menjadi seorang copy trader?<br>
+Game Server
+Dengan latency yang rendah membuat kecepatan internet menjadi lebih kencang. VPS Cloudmatika menyediakan VPS dengan latency yang rendah dan sangat cocok sebagai Game Server. Sehingga para pengguna game yang Anda buat menjadi lebih nyaman.
+ 
 
-Copytrade sendiri adalah suatu fitur agar anda dapat meniru tradingan orang lain dengan skema sharing profit. <br>
+Cloudmatika menghadirkan 2 jenis VPS yaitu Cloud VPS Indonesia dan Cloud VPS Jepang. Keduanya memiliki kegunaan yang sama, hanya infrastruktur nya yang membedakan. Cloudmatika juga memberikan beberapa paket untuk Cloud VPS Indonesia maupun Cloud VPS Jepang diantaranya:
 
-Sehingga bila anda menjadi seorang copy trader, anda tidak hanya mempelajari bagaimana mereka trading, namun juga bagaimana mereka mendapatkan sebuah keuntungan dari hari ke hari.<br>
+Paket VPS Bulanan
+Paket VPS Tahunan
+Paket VPS+Plesk Bulanan
+Paket VPS+Plesk Tahunan
+ 
 
-Dengan seperti ini, anda akan mendapatkan profit sebagaimana yang didapatkan oleh trader yang anda copy.<br>
-
-Hal yang perlu anda perhatikan sebelum memulai copytrade
-Copytrade adalah teknik trading dengan meniru semua tradingan master trader. Apabila master trader loss maka anda juga akan loss,
-Atur risk management anda, sehingga anda tidak akan kehilangan seluruh balance anda
-Strategi yang dipakai mempunyai pengaruh pada masing masing akun trading. Sadarilah kemampuan dana investasi anda yang tidak sama dengan kemampuan dana investasi yang anda copy. Sehebat hebatnya mereka, mereka tetaplah manusia yang dapat alami loss, sebelum itu sebua terjadi maka anda harus benar benar mengikuti trading dari orang yang anda copy, jangan sampai lepas tangan begitu saja.
-Pelajari dan perhatikan lagi account top trader yang akan Anda pilih. Jika Anda seorang trader yang selalu bermain dengan pilihan resiko kecil (tipe risk averse) Anda tentunya tidak bisa mengikuti tipe top trader yang bermain sebagai risk taker. Lakukan penyesuaian apakah tipe top trader yang Anda pilih mempunyai kecocokan strategi trading dengan apa  yang Anda cari.
-Jangan lupa lihat seberapa konsisten performa trader yang akan Anda pilih terlebih dahulu. Ada baiknya jika Anda memilih trader yang konsisten menghasilkan profit meski dengan persentase yang kecil, dibanding dengan mengikuti tradingan top trader yang mampu menghasilkan keuntungan besar namun hanya pada saat tertentu saja.<br>
-Pelajari teknik trading master trader anda dari analisis trading yang disediakan. Sehingga anda dapat mengoptimalkan cara trading anda sendiri.</p>
+Cloudmatika memberikan beberapa tambahan add on untuk memudahkan para developer dalam mengelola sebuah website seperti Web Admin, Web Pro, dan Web Host. Untuk anda yang ingin membuat sebuah webserver pada VPS/VDS, Cloudmatika menawarkan sebuah paket VPS+Plesk Bulanan ataupun Tahunan.</p>
                                     </div>
                                 </div>
                             </div>
